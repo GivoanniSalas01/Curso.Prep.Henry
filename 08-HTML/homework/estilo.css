@@ -1,0 +1,65 @@
+body{
+
+    background-color: silver;
+    font-family: monospace;
+    background-image: url(../homework/img/jhin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#tituloPrincipal{
+    text-align: center;
+    justify-content: center;
+    color: brown;
+    
+}
+#divClass h1{
+    text-align: center;
+    color: crimson;
+}
+
+h3,h4{
+    text-align: center;
+}
+#contenedor{
+    
+    text-align: center;
+    justify-content: center;
+}
+
+#thirdDiv img{
+
+    width: 400px;
+    text-align: center;
+    
+    
+}
+
+
+#thirdDiv{
+    
+    width: 600px;
+    height: 500px;
+    justify-content: center;
+    padding: 50px;
+    margin-left: 27%;
+    border-color: crimson ;
+    border: 10px 10px 10px 10px;
+    border-style: groove;
+    
+}
+#thirdDiv ul {
+    
+    margin-left: 50px;
+    display:inline-block;
+}
+
+#spanid p{
+    text-align: center;
+}
+
+#spanid{
+    margin: 50px;
+}
