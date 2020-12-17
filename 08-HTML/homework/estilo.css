@@ -18,48 +18,39 @@ body{
 #divClass h1{
     text-align: center;
     color: crimson;
+
 }
 
 h3,h4{
     text-align: center;
 }
-#contenedor{
+#container{
     
     text-align: center;
     justify-content: center;
 }
-
-#thirdDiv img{
-
-    width: 400px;
-    text-align: center;
-    
-    
-}
-
-
-#thirdDiv{
-    
-    width: 600px;
-    height: 500px;
-    justify-content: center;
-    padding: 50px;
-    margin-left: 27%;
-    border-color: crimson ;
-    border: 10px 10px 10px 10px;
-    border-style: groove;
-    
-}
-#thirdDiv ul {
-    
-    margin-left: 50px;
-    display:inline-block;
-}
-
 #spanid p{
     text-align: center;
+    font-size: 18px;
 }
 
 #spanid{
     margin: 50px;
+}
+
+#thirdDiv{
+    
+    width: 500px;
+    height: 600px;
+    background-color: rgb(103, 54, 112);
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+    border: rgb(23, 2, 43) solid 10px;
+    
+   display: flex;
+}
+
+#imagen{
+    width: 400px ;
 }
