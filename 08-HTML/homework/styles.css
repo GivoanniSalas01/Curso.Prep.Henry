@@ -1,0 +1,48 @@
+
+body{
+    background-image: url("https://image.freepik.com/foto-gratis/mesa-madera-vacia-frente-cafe-cafeteria-borrosa-o-fondo-trabajo_1936-539.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: monospace;
+}
+/*div contenedor*/
+#contenedor{
+
+    width: 100% ;
+    max-width:1000px;
+    height: auto;
+    margin: 0 auto;
+    border: black solid 2px;
+    background-color: rgba(252, 247, 247, 0.5);
+}
+
+/*Div titulo*/
+
+#Titulo{
+
+    text-align: center;
+}
+img{
+    width: auto;
+    max-width: 200px;
+    
+}
+/*parrafos*/
+p{
+    margin-left: 1px;
+    margin-right: 30px;
+    font-size: 18px;
+    font-family: monospace;
+    text-align: justify;
+}
+/*ul sin punto*/
+
+ul{
+    list-style: none;
+}
+#conPunto{
+    list-style: lower-roman;
+    
+}
